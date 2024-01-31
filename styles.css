@@ -1,5 +1,4 @@
-@import url(https://db.onlinewebfonts.com/c/06d53b10031cc01c7f208d283d054e0d?family=LiebeErika+W03+Regular); 
-@import url(https://db.onlinewebfonts.com/c/630c0ad44781de163af5d966a9fb5ff8?family=LiebeErika+W03+Bold); 
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3&display=swap');
 
 @import url(https://fonts.googleapis.com/css2?family=Quicksand&display=swaphttps://fonts.googleapis.com/css2?family=Quicksand&display=swap); 
 
@@ -17,7 +16,7 @@
     padding-left: 20px;
 }
 .navbar a {
-    font-family: "LiebeErika W03 Bold"; 
+    font-family: 'Source Sans 3', sans-serif;
     font-size: 1.8em;
     line-height: 0.9em;
     padding: 8px;
@@ -76,7 +75,7 @@ h5 {
     font-size: 3em; 
     line-height: 0.4;
     font-weight: normal;
-    font-family: "LiebeErika W03 Bold"; 
+    font-family: 'Source Sans 3', sans-serif;
 }
 h4{
     font-size: 2em; 
